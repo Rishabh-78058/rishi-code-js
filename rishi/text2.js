@@ -1,3 +1,5 @@
+//Conversion in js  
+
 let score ="292"
  
 //console.log (typeof score) //string
